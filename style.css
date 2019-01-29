@@ -4,6 +4,8 @@ body {
 }
 
 .tab { text-indent: 40px; }
+.twotab { text-indent: 65px;}
+
 div.navigate {
     top: 0;
     left: 0;
